@@ -81,7 +81,7 @@ No existe una base pública de reseñas de Nequi, así que se construyó con *we
 ```
 ├── README.md
 ├── resumen_ejecutivo.md               # una página con indicadores, figuras y recomendaciones
-├──presentacion_nequi.pptx        # presentación del caso
+├── HallazgosReseñasNequi.pptx        # presentación del caso
 ├── requirements.txt
 ├── notebooks/
 │   ├── 01_recoleccion_datos.ipynb     # web scraping de Google Play
